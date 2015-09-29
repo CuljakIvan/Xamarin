@@ -1,0 +1,10 @@
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\bin\Debug\XFwithFbSDK.dll
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\bin\Debug\XFwithFbSDK.pdb
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\bin\Debug\Xamarin.Forms.Core.dll
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\bin\Debug\Xamarin.Forms.Platform.dll
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\bin\Debug\Xamarin.Forms.Core.xml
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\obj\Debug\XFwithFbSDK.csprojResolveAssemblyReference.cache
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\obj\Debug\XFwithFbSDK.dll
+C:\TuneIT\Test\XFwithFbSDK\XFwithFbSDK\XFwithFbSDK\obj\Debug\XFwithFbSDK.pdb
